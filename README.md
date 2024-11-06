@@ -1,5 +1,4 @@
-# td_uoc_prac1
-## Bonpreu Scraping
-### Preus
+# Bonpreu Scraping
+## Preus
 
-### Localitzacions
+## Localitzacions
